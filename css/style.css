@@ -21,7 +21,11 @@ a:hover {
 }
 h1 {
     font-size: 3em;
+<<<<<<< HEAD
     font-family:'Arial', 'Helvetica', 'Sans-Serif';
+=======
+    font-family:'Raleway', 'Helvetica', 'Sans-Serif';
+>>>>>>> c63324075e2e8b25791a2655772d2ca68cf9e4f9
     color:red;
 }
 p {
